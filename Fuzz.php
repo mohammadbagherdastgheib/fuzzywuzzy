@@ -1,8 +1,7 @@
 <?php
 
-namespace k\util\fuzzy;
+namespace FuzzyWuzzy;
 
-use k\util\fuzzy\Diff\SequenceMatcher;
 
 /**
  * A collection of fuzzy string matching algorithms, based on the SeatGeek

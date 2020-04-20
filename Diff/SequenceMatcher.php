@@ -1,6 +1,6 @@
 <?php
 
-namespace k\util\fuzzy\Diff;
+namespace FuzzyWuzzy\Diff;
 
 class SequenceMatcher extends Diff_SequenceMatcher
 {

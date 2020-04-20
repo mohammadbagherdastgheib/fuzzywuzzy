@@ -1,7 +1,7 @@
 <?php
 
 
-namespace k\util\fuzzy\Diff;
+namespace FuzzyWuzzy\Diff;
 
 /**
  * Sequence matcher for Diff

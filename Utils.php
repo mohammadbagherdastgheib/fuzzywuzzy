@@ -1,6 +1,6 @@
 <?php
 
-namespace k\util\fuzzy;
+namespace FuzzyWuzzy;
 
 /**
  * Utility methods for FuzzyWuzzy.

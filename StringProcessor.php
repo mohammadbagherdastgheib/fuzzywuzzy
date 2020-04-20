@@ -1,6 +1,6 @@
 <?php
 
-namespace k\util\fuzzy;
+namespace FuzzyWuzzy;
 
 /**
  * Convenience methods for working with string values.
